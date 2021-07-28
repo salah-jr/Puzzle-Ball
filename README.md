@@ -5,7 +5,7 @@ A scoring Game Using Unity
 
 #Preview 
 
-![GIF.gif](https://media.giphy.com/media/5nggKOzVYIdzBjaCZm/giphy.gif)
+![gif.gif](https://media.giphy.com/media/Bxg0HRZcvsmFA2sTxh/giphy.gif)
 
 #installation
 
